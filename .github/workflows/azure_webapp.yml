@@ -7,7 +7,7 @@ on:
 name: app
 
 jobs:
-build-and-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
     # checkout the repo
